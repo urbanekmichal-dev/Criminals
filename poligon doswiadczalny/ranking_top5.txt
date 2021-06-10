@@ -1,0 +1,46 @@
+Miejce nr: 1
+Nr pesel: 00080875734
+Cechy zgodne: 
+Plec: Mezczyzna
+Rok urodzenia : 1921
+Wzrost : 186
+Waga : 85
+Kolor oczu : Brazowe
+Kolor wlosow : Czarne
+Dlugosc wlosow : Dlugie
+Narodowosc : Francja
+Okulary : Tak
+Znamie : Twarz
+30
+
+Miejce nr: 2
+Nr pesel: 76093012631
+Cechy zgodne: 
+Plec: Mezczyzna
+Wzrost : 192
+Dlugosc wlosow : Dlugie
+14
+Lista popelnionych przestepstw: 
+Data przstepstwa: 01.12.2016 Rodzaj przestepstwa :Zabójstwo
+
+Miejce nr: 3
+Nr pesel: 27120594978
+Cechy zgodne: 
+Plec: Mezczyzna
+Wzrost : 179
+Kolor oczu : Brazowe
+14
+
+Miejce nr: 4
+Nr pesel: 36060127494
+Cechy zgodne: 
+Plec: Mezczyzna
+Okulary : Tak
+12
+
+Miejce nr: 5
+Nr pesel: 54060375839
+Cechy zgodne: 
+Plec: Mezczyzna
+10
+

@@ -1,0 +1,9 @@
+85092887766 Kobieta 1985 162 55 Brazowe Blond Krotkie Polska Tak Brak
+27053163489 Kobieta 1927 167 62 Niebieskie Czarne Srednie Niemcy Tak Twarz
+60080123848 Kobieta 1960 155 48 Niebieskie Czarne Srednie Hiszpania Tak Reka
+56082971145 Kobieta 1956 168 65 Szare Czarne Dlugie Wlochy Nie Noga
+54060375839 Mezczyzna 1954 175 70 Zielone Siwe Krotkie Rosja Nie Szyja
+27120594978 Mezczyzna 1927 179 75 Brazowe Rude Srednie Polska Nie Brak
+00080875734 Mezczyzna 1921 186 85 Brazowe Czarne Dlugie Francja Tak Twarz
+36060127494 Mezczyzna 1936 169 60 Szare Blond Krotkie Japonia Tak Szyja
+76093012631 Mezczyzna 1976 192 97 Niebieskie Siwe Dlugie Anglia Nie Reka

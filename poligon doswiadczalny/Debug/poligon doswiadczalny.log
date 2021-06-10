@@ -1,0 +1,20 @@
+﻿  pch.cpp
+  CNr_pesel.cpp
+  CPrzestepca.cpp
+  CPrzestepca_lista_dw_opcja1.cpp
+  CPrzestepca_lista_dw_opcja2.cpp
+  CPrzestepstwa.cpp
+c:\users\miik\source\repos\poligon doswiadczalny\poligon doswiadczalny\cprzestepstwa.cpp(56): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  CRysopis.cpp
+  CString.cpp
+c:\users\miik\source\repos\poligon doswiadczalny\poligon doswiadczalny\cstring.cpp(44): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\miik\source\repos\poligon doswiadczalny\poligon doswiadczalny\cstring.cpp(45): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\miik\source\repos\poligon doswiadczalny\poligon doswiadczalny\cstring.cpp(106): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\miik\source\repos\poligon doswiadczalny\poligon doswiadczalny\cstring.cpp(114): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  main.cpp
+  Generowanie kodu...
+c:\users\miik\source\repos\poligon doswiadczalny\poligon doswiadczalny\main.cpp(24): warning C4715: "sprawdz_plik_wyjsciowy”: niewszystkie ścieżki kodu zwracają wartość
+c:\users\miik\source\repos\poligon doswiadczalny\poligon doswiadczalny\main.cpp(14): warning C4715: "sprawdz_plik_wejsciowy”: niewszystkie ścieżki kodu zwracają wartość
+c:\users\miik\source\repos\poligon doswiadczalny\poligon doswiadczalny\cstring.cpp(73): warning C4715: "CString::operator=”: niewszystkie ścieżki kodu zwracają wartość
+c:\users\miik\source\repos\poligon doswiadczalny\poligon doswiadczalny\cprzestepstwa.cpp(44): warning C4715: "sprawdz_date”: niewszystkie ścieżki kodu zwracają wartość
+  poligon doswiadczalny.vcxproj -> C:\Users\MIIK\source\repos\poligon doswiadczalny\Debug\poligon doswiadczalny.exe

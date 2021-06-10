@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\miik\source\repos\poligon doswiadczalny\poligon doswiadczalny\</FILEPATH>
+      <FILENAME>cprzestepstwa.cpp</FILENAME>
+      <LINE>61</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>6386</DEFECTCODE>
+    <DESCRIPTION>Przepełnienie buforu podczas zapisu w elemencie „arr”: rozmiar obszaru do zapisu to „str_lenght*4”, ale zapisana liczba bajtów może wynieść: „8”.</DESCRIPTION>
+    <FUNCTION>CPrzestepstwa::sprawdz_wejscie</FUNCTION>
+    <DECORATED>?sprawdz_wejscie@CPrzestepstwa@@QAE_NXZ</DECORATED>
+    <FUNCLINE>46</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>4</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>c:\users\miik\source\repos\poligon doswiadczalny\poligon doswiadczalny\</FILEPATH>
+        <FILENAME>cprzestepstwa.cpp</FILENAME>
+        <LINE>48</LINE>
+        <COLUMN>26</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\miik\source\repos\poligon doswiadczalny\poligon doswiadczalny\</FILEPATH>
+        <FILENAME>cprzestepstwa.cpp</FILENAME>
+        <LINE>50</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\miik\source\repos\poligon doswiadczalny\poligon doswiadczalny\</FILEPATH>
+        <FILENAME>cprzestepstwa.cpp</FILENAME>
+        <LINE>51</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\miik\source\repos\poligon doswiadczalny\poligon doswiadczalny\</FILEPATH>
+        <FILENAME>cprzestepstwa.cpp</FILENAME>
+        <LINE>51</LINE>
+        <COLUMN>9</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\miik\source\repos\poligon doswiadczalny\poligon doswiadczalny\</FILEPATH>
+        <FILENAME>cprzestepstwa.cpp</FILENAME>
+        <LINE>51</LINE>
+        <COLUMN>12</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\miik\source\repos\poligon doswiadczalny\poligon doswiadczalny\</FILEPATH>
+        <FILENAME>cprzestepstwa.cpp</FILENAME>
+        <LINE>52</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\miik\source\repos\poligon doswiadczalny\poligon doswiadczalny\</FILEPATH>
+        <FILENAME>cprzestepstwa.cpp</FILENAME>
+        <LINE>53</LINE>
+        <COLUMN>6</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>deklaracja</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>Element „arr” jest tablicą, liczba elementów: 1 (bajty: 4)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\miik\source\repos\poligon doswiadczalny\poligon doswiadczalny\</FILEPATH>
+        <FILENAME>cprzestepstwa.cpp</FILENAME>
+        <LINE>54</LINE>
+        <COLUMN>11</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\miik\source\repos\poligon doswiadczalny\poligon doswiadczalny\</FILEPATH>
+        <FILENAME>cprzestepstwa.cpp</FILENAME>
+        <LINE>54</LINE>
+        <COLUMN>20</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\miik\source\repos\poligon doswiadczalny\poligon doswiadczalny\</FILEPATH>
+        <FILENAME>cprzestepstwa.cpp</FILENAME>
+        <LINE>54</LINE>
+        <COLUMN>46</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\miik\source\repos\poligon doswiadczalny\poligon doswiadczalny\</FILEPATH>
+        <FILENAME>cprzestepstwa.cpp</FILENAME>
+        <LINE>54</LINE>
+        <COLUMN>35</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\miik\source\repos\poligon doswiadczalny\poligon doswiadczalny\</FILEPATH>
+        <FILENAME>cprzestepstwa.cpp</FILENAME>
+        <LINE>54</LINE>
+        <COLUMN>20</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\miik\source\repos\poligon doswiadczalny\poligon doswiadczalny\</FILEPATH>
+        <FILENAME>cprzestepstwa.cpp</FILENAME>
+        <LINE>55</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\miik\source\repos\poligon doswiadczalny\poligon doswiadczalny\</FILEPATH>
+        <FILENAME>cprzestepstwa.cpp</FILENAME>
+        <LINE>55</LINE>
+        <COLUMN>13</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\miik\source\repos\poligon doswiadczalny\poligon doswiadczalny\</FILEPATH>
+        <FILENAME>cprzestepstwa.cpp</FILENAME>
+        <LINE>55</LINE>
+        <COLUMN>16</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\miik\source\repos\poligon doswiadczalny\poligon doswiadczalny\</FILEPATH>
+        <FILENAME>cprzestepstwa.cpp</FILENAME>
+        <LINE>56</LINE>
+        <COLUMN>9</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\miik\source\repos\poligon doswiadczalny\poligon doswiadczalny\</FILEPATH>
+        <FILENAME>cprzestepstwa.cpp</FILENAME>
+        <LINE>56</LINE>
+        <COLUMN>16</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>rozgałęzienie</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Wejdź do tej pętli (przyjmowane jest: „i&lt;data.getLength()”)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\miik\source\repos\poligon doswiadczalny\poligon doswiadczalny\</FILEPATH>
+        <FILENAME>cprzestepstwa.cpp</FILENAME>
+        <LINE>57</LINE>
+        <COLUMN>21</COLUMN>
+        <KEYEVENT>
+          <ID>3</ID>
+          <KIND>rozgałęzienie</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Wejdź do tego rozgałęzienia (przyjmowane jest: „data.get()[i]==46”)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\miik\source\repos\poligon doswiadczalny\poligon doswiadczalny\</FILEPATH>
+        <FILENAME>cprzestepstwa.cpp</FILENAME>
+        <LINE>58</LINE>
+        <COLUMN>5</COLUMN>
+        <KEYEVENT>
+          <ID>4</ID>
+          <KIND>deklaracja</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>Element „j” może mieć wartość równą 1</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\miik\source\repos\poligon doswiadczalny\poligon doswiadczalny\</FILEPATH>
+        <FILENAME>cprzestepstwa.cpp</FILENAME>
+        <LINE>56</LINE>
+        <COLUMN>37</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\miik\source\repos\poligon doswiadczalny\poligon doswiadczalny\</FILEPATH>
+        <FILENAME>cprzestepstwa.cpp</FILENAME>
+        <LINE>56</LINE>
+        <COLUMN>16</COLUMN>
+        <KEYEVENT>
+          <ID>5</ID>
+          <KIND>rozgałęzienie</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Kontynuuj tę pętlę (przyjmowane jest: „i&lt;data.getLength()”)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\miik\source\repos\poligon doswiadczalny\poligon doswiadczalny\</FILEPATH>
+        <FILENAME>cprzestepstwa.cpp</FILENAME>
+        <LINE>57</LINE>
+        <COLUMN>21</COLUMN>
+        <KEYEVENT>
+          <ID>6</ID>
+          <KIND>rozgałęzienie</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Pomiń to rozgałęzienie (przyjmowane jest, że element „data.get()[i]==46” ma wartość false)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\miik\source\repos\poligon doswiadczalny\poligon doswiadczalny\</FILEPATH>
+        <FILENAME>cprzestepstwa.cpp</FILENAME>
+        <LINE>61</LINE>
+        <COLUMN>11</COLUMN>
+        <KEYEVENT>
+          <ID>7</ID>
+          <KIND>użycie</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>Nieprawidłowy zapis w elemencie „arr[1]” (zapisywalny zakres od 0 do 0)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\miik\source\repos\poligon doswiadczalny\poligon doswiadczalny\</FILEPATH>
+      <FILENAME>cprzestepstwa.cpp</FILENAME>
+      <LINE>65</LINE>
+      <COLUMN>4</COLUMN>
+    </SFA>
+    <DEFECTCODE>6385</DEFECTCODE>
+    <DESCRIPTION>Odczyt nieprawidłowych danych z elementu „arr”: rozmiar obszaru do odczytu to „str_lenght*4”, ale odczytana liczba bajtów może wynieść: „8”.</DESCRIPTION>
+    <FUNCTION>CPrzestepstwa::sprawdz_wejscie</FUNCTION>
+    <DECORATED>?sprawdz_wejscie@CPrzestepstwa@@QAE_NXZ</DECORATED>
+    <FUNCLINE>46</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>4</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>c:\users\miik\source\repos\poligon doswiadczalny\poligon doswiadczalny\</FILEPATH>
+        <FILENAME>cprzestepstwa.cpp</FILENAME>
+        <LINE>48</LINE>
+        <COLUMN>26</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\miik\source\repos\poligon doswiadczalny\poligon doswiadczalny\</FILEPATH>
+        <FILENAME>cprzestepstwa.cpp</FILENAME>
+        <LINE>50</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\miik\source\repos\poligon doswiadczalny\poligon doswiadczalny\</FILEPATH>
+        <FILENAME>cprzestepstwa.cpp</FILENAME>
+        <LINE>51</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\miik\source\repos\poligon doswiadczalny\poligon doswiadczalny\</FILEPATH>
+        <FILENAME>cprzestepstwa.cpp</FILENAME>
+        <LINE>51</LINE>
+        <COLUMN>9</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\miik\source\repos\poligon doswiadczalny\poligon doswiadczalny\</FILEPATH>
+        <FILENAME>cprzestepstwa.cpp</FILENAME>
+        <LINE>51</LINE>
+        <COLUMN>12</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\miik\source\repos\poligon doswiadczalny\poligon doswiadczalny\</FILEPATH>
+        <FILENAME>cprzestepstwa.cpp</FILENAME>
+        <LINE>52</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\miik\source\repos\poligon doswiadczalny\poligon doswiadczalny\</FILEPATH>
+        <FILENAME>cprzestepstwa.cpp</FILENAME>
+        <LINE>53</LINE>
+        <COLUMN>6</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>deklaracja</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>Element „arr” jest tablicą, liczba elementów: 1 (bajty: 4)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\miik\source\repos\poligon doswiadczalny\poligon doswiadczalny\</FILEPATH>
+        <FILENAME>cprzestepstwa.cpp</FILENAME>
+        <LINE>54</LINE>
+        <COLUMN>11</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\miik\source\repos\poligon doswiadczalny\poligon doswiadczalny\</FILEPATH>
+        <FILENAME>cprzestepstwa.cpp</FILENAME>
+        <LINE>54</LINE>
+        <COLUMN>20</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\miik\source\repos\poligon doswiadczalny\poligon doswiadczalny\</FILEPATH>
+        <FILENAME>cprzestepstwa.cpp</FILENAME>
+        <LINE>54</LINE>
+        <COLUMN>46</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\miik\source\repos\poligon doswiadczalny\poligon doswiadczalny\</FILEPATH>
+        <FILENAME>cprzestepstwa.cpp</FILENAME>
+        <LINE>54</LINE>
+        <COLUMN>35</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\miik\source\repos\poligon doswiadczalny\poligon doswiadczalny\</FILEPATH>
+        <FILENAME>cprzestepstwa.cpp</FILENAME>
+        <LINE>54</LINE>
+        <COLUMN>20</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\miik\source\repos\poligon doswiadczalny\poligon doswiadczalny\</FILEPATH>
+        <FILENAME>cprzestepstwa.cpp</FILENAME>
+        <LINE>55</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\miik\source\repos\poligon doswiadczalny\poligon doswiadczalny\</FILEPATH>
+        <FILENAME>cprzestepstwa.cpp</FILENAME>
+        <LINE>55</LINE>
+        <COLUMN>13</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\miik\source\repos\poligon doswiadczalny\poligon doswiadczalny\</FILEPATH>
+        <FILENAME>cprzestepstwa.cpp</FILENAME>
+        <LINE>55</LINE>
+        <COLUMN>16</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\miik\source\repos\poligon doswiadczalny\poligon doswiadczalny\</FILEPATH>
+        <FILENAME>cprzestepstwa.cpp</FILENAME>
+        <LINE>56</LINE>
+        <COLUMN>9</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\miik\source\repos\poligon doswiadczalny\poligon doswiadczalny\</FILEPATH>
+        <FILENAME>cprzestepstwa.cpp</FILENAME>
+        <LINE>56</LINE>
+        <COLUMN>16</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\miik\source\repos\poligon doswiadczalny\poligon doswiadczalny\</FILEPATH>
+        <FILENAME>cprzestepstwa.cpp</FILENAME>
+        <LINE>64</LINE>
+        <COLUMN>4</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\miik\source\repos\poligon doswiadczalny\poligon doswiadczalny\</FILEPATH>
+        <FILENAME>cprzestepstwa.cpp</FILENAME>
+        <LINE>65</LINE>
+        <COLUMN>4</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>użycie</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>Nieprawidłowy odczyt z elementu „arr[1]” (czytelny zakres od 0 do 0)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT>
+</DEFECTS>
